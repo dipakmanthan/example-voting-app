@@ -23,8 +23,8 @@ variables:
   # Agent VM image name
   #vmImageName: 'ubuntu-latest'
 
-  pool:
-   name: 'azureagent'
+pool:
+  name: 'azureagent'
 
 
 stages:
